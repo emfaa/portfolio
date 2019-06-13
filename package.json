@@ -1,5 +1,5 @@
 {
-  "name": "lisaa",
+  "name": "portfolio",
   "version": "1.0.0",
   "description": "portfolio",
   "main": "index.html",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/emfaa/lisaa.git"
   },
-  "keywords": ["static", "template", "codesandbox"],
+  "keywords": [],
   "author": "Ives van Hoorne",
   "license": "MIT",
   "bugs": {
